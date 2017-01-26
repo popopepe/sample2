@@ -10,5 +10,6 @@
   module.exports = {
     props: ['message'],
   };
+  //git test
 </script>
 
